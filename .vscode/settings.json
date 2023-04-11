@@ -1,0 +1,11 @@
+
+{
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.cursorBlinking": "expand",
+    "editor.suggest.localityBonus": true,
+    "terminal.integrated.cursorBlinking": true,
+    "cSpell.words": [
+        "sahifa"
+    ],
+}
